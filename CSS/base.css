@@ -35,6 +35,10 @@ a:link {
     color: red;
 }
 
-div{
+.anchor{
     text-align: center; 
+}
+
+.name{
+    background: #5f5f6b;
 }

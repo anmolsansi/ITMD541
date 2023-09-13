@@ -4,17 +4,18 @@
     font-size: 60px;
 }
 
-h2{
+h2 {
     color: #010103;
     font-size: 40px;
 }
 
-p, ul{
+p,
+ul {
     color: #5f5f6b;
     font-size: 20px;
 }
 
-a{
+a {
     color: #5f5f6b;
     font-size: 28px;
 
@@ -22,4 +23,13 @@ a{
 
 a:hover {
     text-decoration: underline;
-  }
+    color: #9a9afa;
+}
+
+a:visited {
+    color: #5ea6c7;
+}
+
+a:link {
+    color: red;
+}

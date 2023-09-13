@@ -40,5 +40,23 @@ a:link {
 }
 
 .div_name{
-    background: #5f5f6b;
+    background: #75757d;
+}
+
+.div_summary{
+    background: #adadb9;
+}
+
+.div_education{
+    background: #93939e;
+}
+
+.div_skills{
+    background: #9999ad;
+
+}
+
+.div_experience{
+    background: #8c8c90;
+
 }

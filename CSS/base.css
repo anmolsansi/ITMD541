@@ -2,6 +2,11 @@
     background-color: #c7a124;
 }
 
+hr{
+    border: 5px dotted rgb(20, 197, 20);
+    border-radius: 5px;
+}
+
 .name {
     text-align: center;
     color: #bed7dd;
@@ -17,7 +22,7 @@ h2 {
 
 p,
 ul {
-    color: #eb97f0;
+    color: #193592;
     font-size: 26px;
 
 }

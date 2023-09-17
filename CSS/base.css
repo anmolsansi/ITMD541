@@ -55,8 +55,10 @@ a:link {
     background: #303034;
 }
 
-.div_summary{
+.div_summary {
     background: #ababad;
+    padding: 10px; 
+    margin: 10px;
 }
 
 .div_education{

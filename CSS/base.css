@@ -57,20 +57,26 @@ a:link {
 
 .div_summary {
     background: #ababad;
-    padding: 10px; 
-    margin: 10px;
+    padding: 30px; 
+    margin: 30px;
 }
 
 .div_education{
     background: #93939e;
+    padding: 30px; 
+    margin: 30px;
 }
 
 .div_skills{
     background: #9999ad;
+    padding: 30px; 
+    margin: 30px;
 
 }
 
 .div_experience{
     background: #8c8c90;
+    padding: 30px; 
+    margin: 30px;
 
 }
